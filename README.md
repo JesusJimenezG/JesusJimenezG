@@ -4,7 +4,7 @@
 - Me llamo Jesús. Middle's name Alfonso (Al if you find it easier).
 - Veintidós años.
 - I'm a Computer science and engineering student.
-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezG&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezG&layout=compact">
 
 - I'm currently learning web development. VueMastery and Python e-degree.
 - Love the #flutter SDK.
