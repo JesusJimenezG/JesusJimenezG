@@ -6,6 +6,7 @@
 - I'm a Computer science and engineering student.
 - I'm currently learning web development. VueMastery and Python e-degree.
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezG&layout=compact">
+
 - Love the #flutter SDK.
 - Inlärning svenska
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
