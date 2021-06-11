@@ -1,8 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JesusJimenezG&show_icons=true&theme=dracula">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezG&langs_count=8">)
-
-
 ### Hi there 👋
 - Me llamo Jesús. Middle's name Alfonso (Al if you find it easier).
 - Veintidós años.
@@ -11,6 +8,8 @@
 - Love the #flutter SDK.
 - Inlärning svenska
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezG&langs_count=8">
 
 <!--
 **JesusJimenezG/JesusJimenezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
