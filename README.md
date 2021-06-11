@@ -7,7 +7,7 @@
 - I'm currently learning web development. VueMastery and Python e-degree.
 - Love the #flutter SDK.
 - Inlärning svenska
-- I also like to translate music on my YouTube channel.
+- I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)
 
 ## 🖖 Get in touch
 
