@@ -9,6 +9,10 @@
 - Inlärning svenska
 - I also like to translate music on my YouTube channel.
 
+## 🖖 Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusjimenezg/)
+
 <!--
 **JesusJimenezG/JesusJimenezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
