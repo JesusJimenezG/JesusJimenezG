@@ -8,6 +8,8 @@
 - Inlärning svenska
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **JesusJimenezG/JesusJimenezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
