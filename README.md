@@ -9,6 +9,15 @@
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
 
 <!--START_SECTION:waka-->
+```text
+Total: 37 hrs 45 mins
+
+Kotlin       34 hrs 13 mins  ██████████████████████▓░░   90.63 % 
+XML          2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JSON         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
