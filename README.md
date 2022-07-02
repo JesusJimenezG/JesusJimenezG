@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          ████████████████████████▓   98.20 %
-Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
