@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       43 mins         █████████████████▓░░░░░░░   70.69 %
+Vue.js       10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+JavaScript   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
 ```
 
 <!--END_SECTION:waka-->
