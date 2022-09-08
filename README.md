@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Shell Script   8 mins          ████████████▓░░░░░░░░░░░░   50.72 %
+Bash           8 mins          ████████████▒░░░░░░░░░░░░   49.28 %
 ```
 
 <!--END_SECTION:waka-->
