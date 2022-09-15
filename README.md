@@ -11,8 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Shell Script   8 mins          ████████████▓░░░░░░░░░░░░   50.34 %
-Bash           8 mins          ████████████▒░░░░░░░░░░░░   49.66 %
+TypeScript   9 mins          ████████████▓░░░░░░░░░░░░   50.46 %
+Python       8 mins          ████████████▒░░░░░░░░░░░░   48.82 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
