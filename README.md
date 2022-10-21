@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Jesús.
 - I'm a Computer Engineering student.
-- I'm currently working as Web and native Android Developer. Check out my [Upwork's profile](https://www.upwork.com/freelancers/~0136891f6e1d316648)
+- I'm currently working as Web and native Android Developer.
 
 - ProgHead. Be prog.
 - Inlärning svenska
