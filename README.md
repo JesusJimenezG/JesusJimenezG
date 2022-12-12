@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Jesús.
 - I'm a Computer Engineering student.
-- I'm currently working as Web and native Android Developer.
+- I'm currently working as a Full stack Web developer and native Android Developer.
 
 - ProgHead. Be prog.
 - Inlärning svenska
