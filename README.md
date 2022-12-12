@@ -4,7 +4,7 @@
 - I'm a Computer Engineering student.
 - I'm currently working as a Full stack Web developer and native Android Developer.
 
-- ProgHead. Be prog.
+- Proghead.
 - Inlärning svenska
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
 
