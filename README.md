@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats-eight-rose-90.vercel.app
-/api?username=JesusJimenezGshow_icons=true&theme=radical">
+/api?username=JesusJimenezG&show_icons=true&theme=radical">
 
 ### Hi there 👋 My name is Jesús.
 - I'm a Computer Engineering student.
