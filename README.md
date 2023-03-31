@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 14 hrs 26 mins  ██████████████▒░░░░░░░░░░   57.03 %
-Svelte                     6 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-JSON                       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-YAML                       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Docker                     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Nginx configuration file   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript                 11 hrs 16 mins  █████████████▒░░░░░░░░░░░   52.99 %
+Svelte                     6 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+YAML                       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+JSON                       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Docker                     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Nginx configuration file   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
