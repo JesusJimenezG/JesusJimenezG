@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats-eight-rose-90.vercel.app
+<!-- <img align='right' src="https://github-readme-stats-eight-rose-90.vercel.app
 /api?username=JesusJimenezG&show_icons=true&theme=radical">
 
 ### Hi there 👋 My name is Jesús.
@@ -7,7 +7,8 @@
 
 - Proghead.
 - Inlärning svenska
-- I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA)
+- I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA) -->
+![banner](https://github.com/JesusJimenezG/JesusJimenezG/blob/main/1.png)
 
 <!--START_SECTION:waka-->
 
