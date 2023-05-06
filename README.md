@@ -8,7 +8,7 @@
 - Proghead.
 - Inlärning svenska
 - I also like to translate music on my YouTube channel. [![YouTube Views](https://img.shields.io/youtube/channel/views/UCWnlcC4_sV9Imcy9ysQpxHA?style=social)](https://www.youtube.com/channel/UCWnlcC4_sV9Imcy9ysQpxHA) -->
-![banner](https://github.com/JesusJimenezG/JesusJimenezG/blob/main/1.png)
+<!-- ![banner](https://github.com/JesusJimenezG/JesusJimenezG/blob/main/1.png) -->
 
 <!--START_SECTION:waka-->
 
