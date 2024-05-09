@@ -13,9 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 40 mins   █████████████████████░░░░   83.91 %
-JavaScript   55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Kotlin       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript        5 hrs 38 mins   █████████████████████▒░░░   85.40 %
+JavaScript        38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Kotlin            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Properties        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
