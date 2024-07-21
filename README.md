@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        5 hrs 29 mins   ████████████████▓░░░░░░░░   67.26 %
-TypeScript        2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
-Kotlin            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript        6 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.80 %
+TypeScript        3 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Kotlin            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Other             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
