@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 21 hrs 6 mins   █████████████████████▓░░░   86.49 %
-JavaScript                 2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Kotlin                     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Nginx configuration file   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-JSON                       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript   22 hrs 10 mins  ██████████████████████░░░   88.29 %
+JavaScript   2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TSConfig     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
