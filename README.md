@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        19 mins         ████████████▒░░░░░░░░░░░░   49.19 %
-JavaScript        11 mins         ███████▒░░░░░░░░░░░░░░░░░   28.97 %
-XML               6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-JSON              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Kotlin            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
