@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.04 %
-TypeScript        4 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Velocity          3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-VTL               1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-JavaScript        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Kotlin            7 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   42.84 %
+TypeScript        4 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Velocity          2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+VTL               1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JavaScript        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
